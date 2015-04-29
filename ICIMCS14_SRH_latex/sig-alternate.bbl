@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:vldbGionisIM99-01}
+A.~Gionis, P.~Indyk, and R.~Motwani.
+\newblock Similarity search in high dimensions via hashing.
+\newblock In {\em VLDB}, pages 518--529, 1999.
+
+\bibitem{DBLP:nipsRaginskyL09-02}
+M.~Raginsky and S.~Lazebnik.
+\newblock Locality-sensitive binary codes from shift-invariant kernels.
+\newblock In {\em NIPS}, pages 1509--1517, 2009.
+
+\bibitem{DBLP:WangKC10-16}
+J.~Wang, O.~Kumar, and S.-F. Chang.
+\newblock Semi-supervised hashing for scalable image retrieval.
+\newblock In {\em CVPR}, pages 3424--3431, 2010.
+
+\bibitem{DBLP:SalakhutdinovH09-05}
+R.~Salakhutdinov and G.~E. Hinton.
+\newblock Semantic hashing.
+\newblock {\em Int. J. Approx. Reasoning}, 50(7):969--978, 2009.
+
+\bibitem{DBLP:nipsKulisD09-06}
+B.~Kulis and T.~Darrell.
+\newblock Learning to hash with binary reconstructive embeddings.
+\newblock In {\em NIPS}, pages 1042--1050, 2009.
+
+\bibitem{DBLP:cvprLiuWJJC12-07}
+W.~Liu, J.~Wang, R.~Ji, Y.~Jiang, and S.-F. Chang.
+\newblock Supervised hashing with kernels.
+\newblock In {\em CVPR}, pages 2074--2081, 2012.
+
+\bibitem{DBLP:conf/iccvKulisG09-08}
+B.~Kulis and K.~Grauman.
+\newblock Kernelized locality-sensitive hashing for scalable image search.
+\newblock In {\em ICCV}, pages 2130--2137, 2009.
+
+\bibitem{DBLP:WeissTF08-09}
+Y.~Weiss, A.~Torralba, and R.~Fergus.
+\newblock Spectral hashing.
+\newblock In {\em NIPS}, pages 1753--1760, 2008.
+
+\bibitem{DBLP:eccvWeissFT12-10}
+Y.~Weiss, R.~Fergus, and A.~Torralba.
+\newblock Multidimensional spectral hashing.
+\newblock In {\em ECCV (5)}, pages 340--353, 2012.
+
+\bibitem{DBLP:cvprGongL11-11}
+Y.~Gong, S.~Lazebnik, A.~Gordo, and F.~Perronnin.
+\newblock Iterative quantization: A procrustean approach to learning binary
+  codes for large-scale image retrieval.
+\newblock {\em IEEE Trans. on PAMI}, 35(12):2916--2929, 2013.
+
+\bibitem{DBLP:HeWS13-03}
+K.~He, F.~Wen, and J.~Sun.
+\newblock K-means hashing: An affinity-preserving quantization method for
+  learning binary compact codes.
+\newblock In {\em CVPR}, pages 2938--2945, 2013.
+
+\bibitem{DBLP:iccvXuWLZLY11-12}
+H.~Xu, J.~Wang, Z.~Li, G.~Zeng, S.~Li, and N.~Yu.
+\newblock Complementary hashing for approximate nearest neighbor search.
+\newblock In {\em ICCV}, pages 1631--1638, 2011.
+
+\bibitem{DBLP:icmlWangKC10-15}
+J.~Wang, S.~Kumar, and S.-F. Chang.
+\newblock Sequential projection learning for hashing with compact codes.
+\newblock In {\em ICML}, pages 1127--1134, 2010.
+
+\end{thebibliography}

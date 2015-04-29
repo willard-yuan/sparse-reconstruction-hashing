@@ -1,0 +1,698 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2014.11.3)  29 APR 2015 23:04
+entering extended mode
+**sig-alternate.tex
+(E:\lab_code\ICIMCS14_SRH#79\ICIMCS14_SRH_latex\sig-alternate.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\lab_code\ICIMCS14_SRH#79\ICIMCS14_SRH_latex\sig-alternate.cls
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+("E:\Program Files\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count80
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count81
+\leftroot@=\count82
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count83
+\DOTSCASE@=\count84
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count85
+\c@MaxMatrixCols=\count86
+\dotsspace@=\muskip10
+\c@parentequation=\count87
+\dspbrk@lvl=\count88
+\tag@help=\toks17
+\row@=\count89
+\column@=\count90
+\maxfields@=\count91
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+Document Class 'sig-alternate' <23rd. May '12>. Modified by G.K.M. Tobin/Gerry 
+Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.ac
+m.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count92
+\originalaucount=\count93
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count94
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count95
+\subtitletext=\toks22
+Requested font "ptmb8t" at 12.0pt
+ -> ptmb8t
+Requested font "ptmbi8t" at 12.0pt
+ -> ptmbi8t
+Requested font "ptmri8t" at 11.0pt
+ -> ptmri8t
+Requested font "ptmbi8t" at 11.0pt
+ -> ptmbi8t
+Requested font "phvb8t" at 18.0pt
+ -> phvb8t
+Requested font "phvbo8t" at 18.0pt
+ -> phvbo8t
+Requested font "phvr8t" at 14.0pt
+ -> phvr8t
+Requested font "phvro8t" at 14.0pt
+ -> phvro8t
+Requested font "phvb8t" at 14.0pt
+ -> phvb8t
+Requested font "phvr8t" at 12.0pt
+ -> phvr8t
+Requested font "phvro8t" at 12.0pt
+ -> phvro8t
+Requested font "phvr8t" at 10.0pt
+ -> phvr8t
+Requested font "phvro8t" at 10.0pt
+ -> phvro8t
+Requested font "ptmr8t" at 9.0pt
+ -> ptmr8t
+Requested font "ptmri8t" at 8.0pt
+ -> ptmri8t
+Requested font "ptmr8t" at 8.0pt
+ -> ptmr8t
+\savesection=\count96
+\sectioncntr=\count97
+\c@figure=\count98
+\c@table=\count99
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count100
+Document Class: sig-alternate 2012/05/23 - V2.5 - based on acmproc.cls V1.3 <No
+v. 30 '99>
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+Requested font "cmr9" at 9.0pt
+ -> cmr9
+\@acmtitlebox=\box28
+\titlenotecount=\count101
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count102
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count103
+\c@section=\count104
+\c@subsection=\count105
+\c@subsubsection=\count106
+\c@paragraph=\count107
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1211.
+\bibindent=\dimen122
+\colcntr=\count108
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)
+Requested font "aer9" at 9.0pt
+ -> aer9
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip47
+\c@subfigure=\count109
+\c@lofdepth=\count110
+\c@subtable=\count111
+\c@lotdepth=\count112
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("E:\Program Files\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty"
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks36
+\float@box=\box30
+\@float@everytoks=\toks37
+\@floatcapt=\box31
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks38
+\c@algorithm=\count114
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty"
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count115
+\c@ALC@line=\count116
+\c@ALC@rem=\count117
+\c@ALC@depth=\count118
+\ALC@tlm=\skip50
+\algorithmicindent=\skip51
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\caption\caption2.sty"
+Package: caption2 2011/08/12 v2.2d Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\caption\caption3.sty"
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 210.
+\captionlinewidth=\dimen131
+\realcaptionwidth=\dimen132
+Package caption2 Info: float package v1.2 (or newer) detected on input line 319
+.
+Package caption2 Info: subfigure package v2.1 (or newer) detected on input line
+ 438.
+\subfigcapwidth=\dimen133
+\subcapindent=\dimen134
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen135
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(E:\lab_code\ICIMCS14_SRH#79\ICIMCS14_SRH_latex\sig-alternate.aux
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figsigma' multiply defined.
+
+
+LaTeX Warning: Label `sub@figsigma' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figsigma' multiply defined.
+
+
+LaTeX Warning: Label `sub@figsigma' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figsigma' multiply defined.
+
+
+LaTeX Warning: Label `sub@figsigma' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+
+LaTeX Warning: Label `figlambda' multiply defined.
+
+
+LaTeX Warning: Label `sub@figlambda' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi9" at 9.0pt
+ -> cmmi9
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy9" at 9.0pt
+ -> cmsy9
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex9" at 9.0pt
+ -> cmex9
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+LaTeX Font Info:    Try loading font information for U+msa on input line 142.
+ ("E:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+Requested font "msam10" at 9.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+Requested font "msam5" at 5.0pt
+ -> msam5
+LaTeX Font Info:    Try loading font information for U+msb on input line 142.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Requested font "msbm10" at 9.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+Requested font "msbm5" at 5.0pt
+ -> msbm5
+LaTeX Font Info:    Try loading font information for U+lasy on input line 142.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Requested font "lasy9" at 9.0pt
+ -> lasy9
+Requested font "lasy6" at 6.0pt
+ -> lasy6
+Requested font "lasy5" at 5.0pt
+ -> lasy5
+Requested font "aeti9" at 9.0pt
+ -> aeti9
+Requested font "aebx9" at 9.0pt
+ -> aebx9
+
+Overfull \hbox (2.71443pt too wide) in paragraph at lines 170--171
+[]\T1/aer/m/n/9 To han-dle the afore-men-tioned prob-lem, un-su-per-vised hash-
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+File: images/norm.eps Graphic file (type eps)
+
+<images/norm.eps> [2]
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+File: images/cifar10_pr_16bits.eps Graphic file (type eps)
+ <images/cifar10_pr_16bits.eps>
+Requested font "aer5" at 5.0pt
+ -> aer5
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+File: images/cifar10_pr_24bits.eps Graphic file (type eps)
+
+<images/cifar10_pr_24bits.eps>
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 340 replaced by U+FFFD.
+File: images/cifar10_pr_32bits.eps Graphic file (type eps)
+ <images/cifar10_pr_32bits.eps>
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+File: images/cifar10_pr_48bits.eps Graphic file (type eps)
+
+<images/cifar10_pr_48bits.eps>
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 346 replaced by U+FFFD.
+File: images/cifar10_r_16bits.eps Graphic file (type eps)
+ <images/cifar10_r_16bits.eps>
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 349 replaced by U+FFFD.
+File: images/cifar10_r_24bits.eps Graphic file (type eps)
+
+<images/cifar10_r_24bits.eps>
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 352 replaced by U+FFFD.
+File: images/cifar10_r_32bits.eps Graphic file (type eps)
+ <images/cifar10_r_32bits.eps>
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 355 replaced by U+FFFD.
+File: images/cifar10_r_48bits.eps Graphic file (type eps)
+
+<images/cifar10_r_48bits.eps>
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+File: images/tiny100k_pr_16bits.eps Graphic file (type eps)
+ <images/tiny100k_pr_16bits.eps>
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 368 replaced by U+FFFD.
+File: images/tiny100k_pr_24bits.eps Graphic file (type eps)
+
+<images/tiny100k_pr_24bits.eps>
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+File: images/tiny100k_pr_32bits.eps Graphic file (type eps)
+ <images/tiny100k_pr_32bits.eps>
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 374 replaced by U+FFFD.
+File: images/tiny100k_pr_48bits.eps Graphic file (type eps)
+
+<images/tiny100k_pr_48bits.eps>
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+File: images/tiny100k_r_16bits.eps Graphic file (type eps)
+ <images/tiny100k_r_16bits.eps>
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+File: images/tiny100k_r_24bits.eps Graphic file (type eps)
+
+<images/tiny100k_r_24bits.eps>
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+File: images/tiny100k_r_32bits.eps Graphic file (type eps)
+ <images/tiny100k_r_32bits.eps>
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+File: images/tiny100k_r_48bits.eps Graphic file (type eps)
+
+<images/tiny100k_r_48bits.eps>
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+File: images/image_rereieve_examples.eps Graphic file (type eps)
+ <images/image_rereieve_examples.eps> [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (6.03804pt too wide) in paragraph at lines 409--411
+\T1/aer/m/n/9 Pro-gram of Chi-na (973 Pro-gram) (Grant No. 2012CB719905),
+ []
+
+(E:\lab_code\ICIMCS14_SRH#79\ICIMCS14_SRH_latex\sig-alternate.bbl [5]) [6
+
+]
+(E:\lab_code\ICIMCS14_SRH#79\ICIMCS14_SRH_latex\sig-alternate.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3467 strings out of 430478
+ 43125 string characters out of 3191152
+ 114737 words of memory out of 3000000
+ 6539 multiletter control sequences out of 15000+200000
+ 41306 words of font info for 52 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 39i,17n,38p,1382b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on sig-alternate.pdf (6 pages).
