@@ -1,6 +1,8 @@
 # sparse-reconstruction-hashing
 The code of "Learning Hash Functions Using Sparse Reconstruction"
 
+**Note**: The dataset isn't uploaded and the code is still improving.
+
 <p align="center"><img src="./cifar10.png" alt="precision-recall-64bits"/></p>
 
 <p align="center"><img src="./tiny100k.png" alt="precision-recall-64bits"/></p>
